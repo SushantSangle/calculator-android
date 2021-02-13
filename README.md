@@ -1,5 +1,4 @@
-#Calculator - Android Native
-##Author - Sushant Sangle
+# Calculator - Android Native
 
 This is a practice application to learn basic Android development in Kotlin.
 This application makes use of LiveData to update input and output in realtime.
